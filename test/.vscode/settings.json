@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "C:\\Users\\Mazer\\.conda\\envs\\tensorflow10\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
